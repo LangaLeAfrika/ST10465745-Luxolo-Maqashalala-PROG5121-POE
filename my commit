@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   messages.json
+#	modified:   pom.xml
+#	modified:   target/surefire-reports/TEST-com.mycompany.chatapp.ChatAppTest.xml
+#	modified:   target/surefire-reports/TEST-com.mycompany.chatapp.LoginTest.xml
+#	modified:   target/surefire-reports/TEST-com.mycompany.chatapp.MessageTest.xml
+#	modified:   target/surefire-reports/com.mycompany.chatapp.ChatAppTest.txt
+#	modified:   target/surefire-reports/com.mycompany.chatapp.LoginTest.txt
+#	modified:   target/surefire-reports/com.mycompany.chatapp.MessageTest.txt
+#
