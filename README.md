@@ -1,4 +1,4 @@
-# Chat Application - PROG5121 POE
+# Chat Application V1.3 - PROG5121 POE
 ## 📌 Student Details
 - Name: Luxolo Maqashalala
 - Student Number: ST10465745
